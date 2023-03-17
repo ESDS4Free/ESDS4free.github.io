@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7b66b865.css",
+    "main.js": "/static/js/main.63a7ca80.js",
+    "static/media/colors.png": "/static/media/colors.6fd25cc5eb325478cc72.png",
+    "static/media/laptopimage.bmp": "/static/media/laptopimage.d16c5dfd14553c569d95.bmp",
+    "static/media/ITAR.jpg": "/static/media/ITAR.13d8cbc2deb0306805ca.jpg",
+    "static/media/cyber-network.jpg": "/static/media/cyber-network.90868d861b4ccdc9d1ad.jpg",
+    "static/media/lightlogo.png": "/static/media/lightlogo.1dce52509fd716db0df3.png",
+    "index.html": "/index.html",
+    "main.7b66b865.css.map": "/static/css/main.7b66b865.css.map",
+    "main.63a7ca80.js.map": "/static/js/main.63a7ca80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b66b865.css",
+    "static/js/main.63a7ca80.js"
+  ]
+}
